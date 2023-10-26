@@ -1,0 +1,11 @@
+{
+  "name": "convertbase64",
+  "version": "1.0.0",
+  "description": "Convert your file to base 64 format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Okello Marvin Kevin",
+  "license": "ISC"
+}
