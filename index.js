@@ -1,7 +1,5 @@
 // index.js
 const convertbase64 = (file) => {
-
-    console-console.log(file, "file is here");
   // Handle the selected file here
   let reader = new FileReader();
 
